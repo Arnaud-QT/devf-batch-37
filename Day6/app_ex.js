@@ -6,8 +6,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.get("/api/", (request, response) => {
-    response.sendStatus(200)
-    response.sendjson({'mensaje':'hola mundo'})
+    response.status(200).send({'mensaje':'hola mundo'})
 });
 
 app.listen(3000, err => {
