@@ -1,0 +1,5 @@
+COMANDOS DE GIT
+
+- git add . --> agrega todos los archivos al estado de "listo para subir"
+- git commit -m "Mi primer comentario"  --> agrega un comentario a los archivos agregados
+- git push --> Sube los cambios a Github
