@@ -1,0 +1,29 @@
+General : 
+
+- A lever 1.5m USD en 2019 de la Banque de Developement Inter America et va pousser sa croissance
+- Créé il y a 5 ans environs
+- Des 6 étudiants inscris (4 blanca, 1 roja, 1 negra) seulement 4 sont venus. 2 qui ont connus DevF grace à un ami, 1 par pub FB 1 par pub Insta.
+- Ils commence avec des cours Web Dev et vont ensuite offrir plus (Data Science, etc.)
+
+Premier cours:
+
+présentation générale + Quizz d'évaluation de niveau (Kahoot!)
+Installation des logicielles nécéssaires (Git Bash, Visual Studio Code, NodeJS, slack)
+
+Premiers exercices = 
+
+---------------------------------------------
+1.- Hacer una función que convierta de grados
+    centígrados a Farenheit
+---------------------------------------------
+*/
+---------------------------------------------
+2.- Hacer una función que muestre la tabla de
+    multiplicar de un número
+---------------------------------------------
+*/
+---------------------------------------------
+3.- Leer un arreglo de enteros y sacar su
+    media y promedio
+---------------------------------------------
+*/
