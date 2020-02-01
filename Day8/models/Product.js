@@ -18,8 +18,12 @@ const productSchema = new mongoose.Schema({
     origin: {
         type: String,
         default: "Medellin"
+    },
+    is_active: {
+        type: Boolean,
+        default: true
     }
-})
+}, {timestamps: true});
 
 
 const Product = mongoose.model("Product", productSchema)
